@@ -36,12 +36,14 @@ End-users should care about networking because it is essential for accessing sha
 ## Understanding The 4-Layer Internet Model
 The TCP/IP model also referred to as the 4-Layer Internet Model, is a conceptual structure that outlines the protocols and standards governing data transmission across networks. It consists of four interlinked layers, each responsible for facilitating network communication. Named after its priamry protocols, TCP guarantees dependable data delivery, while IP manages data packet routing and addressing. 
 
+
 |     Internet Model               |     Description               |
 |--------------------|--------------------|
 |  Application                  |   Bidirectional reliable byte stream between two applications, using application specific semantics (e.g HTTP, BitTorrent)                 |
 | Transport                   | Guarantees correct, in-order end-to-end delivery of data                   |
 | Network                   |Delivers datagram end-to-end. Best effort delivery - with no guarantees. Must use the Internet Protocol (IP)                    |
 |Link                    |Delivers data over a single link between an end host and router, or between routers                    |
+
 
 At the top of the 4-layer model is the Application layer, with aapplications such as BitTorrent, WorldWideWeb, etc, which communicate to its peer layer at the destination. When the application has data to transmit, it sends it to the transport layer, which has the job of delivering the data reliably or otherwise to the destination. The transport layer then forwards this data to the network layer responsible for segmenting the data into packets, each tagged with the correct destination and address. Subsequently, the packets are handed to the link layer, which ensures their delivery from one node to the next along their path. The data progresses hop by hop through routers until it reaches the destination, where it ascends through layers until it reaches the applicaiton.
 
@@ -56,6 +58,7 @@ The Link layer, or Network Access Layer, serves as the foundation of the TCP/IP 
 Key responsibilities of the Link layer include managing communication with thhe computer's network adapter, coordinating data transmission according to the appropriate access method (e.g Ethernet, token ring), formatting data into frames for transmission, handling errors in incoming frames, and acknowledging receipt of data frames while ensuring reliable delivery through resending if necessary. Additionally, the layer assigns addresses to network interface devices enabling communicaiton with devices on other networks.
 
 Various physcial network technologies are employed within the Network Access Layer to faciliate communication within LAN environments. These technologies include Ethernet, Token Ring, FDDI (Fiber Distributed Data Interface) for high speed networks, PPP (Point-to-Point Protocol) utilized through modems, and wireless networks such as WiFi and mobile networks. Each technology offers distinct advantages and is chosen based on factors like network speed, scalability, and deployment requirmeents. 
+
 
 
 ### The Network Layer
