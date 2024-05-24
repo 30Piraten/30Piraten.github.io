@@ -19,7 +19,6 @@ Physics, BSc
 | CI/CD        | Jenkins                         |
 | IaC          | Terraform                       |
 
-## Projects
 
 ## Projects
 
