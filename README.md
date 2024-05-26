@@ -9,29 +9,20 @@ Physics, BSc
 |--------------|---------------------------------|
 | Cloud        | Azure                           |
 | Containers   | Kubernetes, Docker              |
-| Language     | Python,                         |
+| Language     | Python                         |
 | OS           | Linux                           |
 | CI/CD        | Jenkins                         |
 | IaC          | Terraform                       |
 
 
-## Projects                  
-[Projects](/projects.md) 
+| Section                   | Link                          |
+|---------------------------|-------------------------------|
+| Projects                  | [Projects](/projects.md)      |
+| Opensource Contributions  | [Opensource](/opensource.md)  |
+| Certificates              | [Certificates](/certificates.md) |
+| Articles                  | [Articles](/articles.md)      |
+| Poetry                    | [Poetry](/poetry.md)          |
 
-## Opensource Contributions
-[Opensource](/opensource.md)
-
-## Certificates
-[Certificates](/certificates.md)
-
-## Articles
-[Articles](/articles.md)
-
-## Poetry
-[Poetry](/poetry.md)
 
 ## Interests
-- Anime
-- Crochet
-- German
-- Kyoto - Japan
+- Anime | - Crochet | - German | - Kyoto - Japan
