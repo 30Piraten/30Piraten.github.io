@@ -1,5 +1,8 @@
 # Cloud Engineer
 
+## Education
+Physics, BSc
+
 ## Skills
 
 | Category     | Skills                          |
@@ -17,9 +20,6 @@
 
 ## Certificates
 [Certificates](/certificates.md)
-
-## Education
-Physics, BSc
 
 ## Articles
 [Articles](/articles.md)
