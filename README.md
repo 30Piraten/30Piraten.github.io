@@ -25,4 +25,4 @@ Physics, BSc
 
 
 ## Interests
-- Anime | - Crochet | - German | - Kyoto - Japan
+Anime | - Crochet | - German | - Kyoto - Japan
