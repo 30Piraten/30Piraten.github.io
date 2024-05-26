@@ -25,10 +25,7 @@ Physics, BSc
 [Articles](/articles.md)
 
 ## Poetry
-- [Slave Girl](https://thecamelsaloon.blogspot.com/2014/09/slave-girl.html)
-- [Apocryphal](https://www.verse-virtual.org/2014/November/victor-ehikioya-2014-november.html)
-- [Life is short. Art is Long](https://www.verse-virtual.org/2015/August/victor-brown-omovbude-2015-august.html)
-- [Collection](https://www.verse-virtual.org/2015/March/victor-brown-omovbude-2015-march.html)
+[Poetry](/poetry.md)
 
 ## Interests
 - Anime
