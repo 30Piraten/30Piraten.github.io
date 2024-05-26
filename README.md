@@ -1,5 +1,6 @@
-## Skills
+## Profile
 
+## Skills
 Azure | Kubernetes | Terraform | Python | Jenkins | Docker
 
 | Section                   | Link                          |
