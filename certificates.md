@@ -1,0 +1,2 @@
+- Microsoft Azure Administrator - AZ-104T00-A:
+- Kubernetes - Certified Kubernetes Administrator
