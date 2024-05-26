@@ -1,0 +1,2 @@
+- [Demystifying TCP/IP: Understanding the Journey of a Network Packet](https://3ev.medium.com/the-life-of-a-packet-c80857054b04)
+- [Working With Python OS Module](https://3ev.medium.com/working-with-python-os-module-5b7062761b4a)
