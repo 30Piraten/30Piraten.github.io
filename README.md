@@ -1,12 +1,6 @@
-# Cloud Engineer
-
-## Education
-Physics, BSc
-
 ## Skills
 
 Azure | Kubernetes | Terraform | Python | Jenkins | Docker
-
 
 | Section                   | Link                          |
 |---------------------------|-------------------------------|
@@ -16,6 +10,8 @@ Azure | Kubernetes | Terraform | Python | Jenkins | Docker
 | Articles                  | [Articles](/articles.md)      |
 | Poetry                    | [Poetry](/poetry.md)          |
 
+## Education
+Physics, BSc
 
 ## Interests
 Anime | - Crochet | - German | - Kyoto - Japan
