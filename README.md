@@ -1,20 +1,12 @@
 # Cloud Engineer
 
-## Education
-Physics, BSc
-
-## courses
-- Mathematical Methods in Physics
-- Computational Physics
-- Electronics
-
 ## Skills
 
 | Category     | Skills                          |
 |--------------|---------------------------------|
 | Cloud        | Azure                           |
 | Containers   | Kubernetes, Docker              |
-| Language     | Python, JavaScript              |
+| Language     | Python,                         |
 | OS           | Linux                           |
 | CI/CD        | Jenkins                         |
 | IaC          | Terraform                       |
@@ -24,8 +16,10 @@ Physics, BSc
 [Projects](/projects.md)
 
 ## Certificates
-- Microsoft Azure Administrator - AZ-104T00-A:
-- Kubernetes - Certified Kubernetes Administrator
+[Certificates](/certificates.md)
+
+## Education
+Physics, BSc
 
 ## Articles
 - [Demystifying TCP/IP: Understanding the Journey of a Network Packet](https://3ev.medium.com/the-life-of-a-packet-c80857054b04)
