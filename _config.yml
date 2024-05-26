@@ -1,8 +1,8 @@
-title: Victor R. Ehikioya
+# title: Victor R. Ehikioya
 logo: /assets/img/me.png
 description: Cloud Engineer | Solutions Architect 
 show_downloads: false
 theme: jekyll-theme-minimal
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-paginate: 10
+# paginate: 10
