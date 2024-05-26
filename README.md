@@ -22,7 +22,7 @@
 Physics, BSc
 
 ## Articles
-[Articles0(/articles.md)
+[Articles](/articles.md)
 
 ## Poetry
 - [Slave Girl](https://thecamelsaloon.blogspot.com/2014/09/slave-girl.html)
