@@ -5,14 +5,7 @@ Physics, BSc
 
 ## Skills
 
-| Category     | Skills                          |
-|--------------|---------------------------------|
-| Cloud        | Azure                           |
-| Containers   | Kubernetes, Docker              |
-| Language     | Python                         |
-| OS           | Linux                           |
-| CI/CD        | Jenkins                         |
-| IaC          | Terraform                       |
+Azure | Kubernetes | Terraform | Python | Jenkins | Docker
 
 
 | Section                   | Link                          |
